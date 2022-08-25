@@ -1,0 +1,8 @@
+.icon-size {
+	font-size: 25px;
+	padding: 2px;
+	cursor: pointer;
+}
+.space-x * {
+	margin: 0 10px;
+}
